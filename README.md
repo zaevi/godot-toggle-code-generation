@@ -4,7 +4,7 @@ As we all know, when connecting a signal in Godot Editor, it will automatically 
 
 This plugin can prevent code auto-generation and add a handler to control which language can auto-generate code.
 
-![preview](https://user-images.githubusercontent.com/12966814/87037966-a8ccf300-c21f-11ea-9bba-42bb1ebfca2d.png)
+![preview](https://user-images.githubusercontent.com/12966814/87143890-767fcc00-c2d9-11ea-9686-906df61fb777.png)
 
 ## Install
 

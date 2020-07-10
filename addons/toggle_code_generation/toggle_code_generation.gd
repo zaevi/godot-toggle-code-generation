@@ -32,7 +32,7 @@ func _enter_tree():
 	menu.connect("index_pressed", self, "_menu_idx_pressed")
 	
 	_add_menu_option("GDScript")
-	_add_menu_option("C#") # other languages don't need this yet.
+	_add_menu_option("CSharpScript") # other languages don't need this yet.
 	menu.add_separator()
 	_add_menu_option("Copy Function Name")
 	
